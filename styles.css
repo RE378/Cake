@@ -1,0 +1,63 @@
+.images{
+    /* background-image: url("RocketLaunch.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center; */
+    height: 600px;
+    width: 1250px;
+    color: white;
+    margin: auto;
+    background-color: black ;
+    opacity: 0.5;
+    /* border: 2px solid black; */
+   /* box-shadow: 6px 6px 25px inset  #444444; */
+}
+/* #boxes{
+    height: 600px;
+    width: 1250px;
+    color: white;
+    margin: auto;
+    background-color: black;
+    opacity: 0.5;
+
+} */
+table{
+    padding: 1px 2px  ;
+    margin: 2px 4px;
+    background-color: white;
+   
+}
+body{
+    background-color: #F2F2F2;
+    background-image: url("RocketLaunch.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: 25% auto 25% auto;
+    
+    /* height: 600px;
+    width: 1250px; */
+}
+.Space{
+    
+    float: right;
+    padding-left:5px;
+padding-right: 10px;
+font-size: 40px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Space1{
+    float: left;
+    font-size: 52px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 50px;
+}
+/* h5{
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px 150%  15px 50% ;
+    height: 500px;
+    width: 500px;
+} */
